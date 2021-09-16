@@ -15,10 +15,10 @@ HI i am harvinder singh and created this react native social app with Firebase.
 - [React Native Gifted Chat](https://github.com/FaridSafi/react-native-gifted-chat)
 
 ### Onboarding UI
-![Onboarding UI](https://raw.githubusercontent.com/harvindersingh2010/react-native-firebase-social-app/master/assets/screenshots/onboarding-ui.png)
+![Onboarding UI](https://raw.githubusercontent.com/harvindersingh2010/react-native-firebase-social-app/master/assets/screenshots/onboarding-ui2.png)
 
 ### Sign In UI
-![Sign in UI](https://raw.githubusercontent.com/harvindersingh2010/react-native-firebase-social-app/master/assets/screenshots/social-login.png)
+![Sign in UI](https://raw.githubusercontent.com/harvindersingh2010/react-native-firebase-social-app/master/assets/screenshots/social-login2.png)
 
 ### Home/Feed Screen UI
-![Home/Feed Screen UI](https://raw.githubusercontent.com/harvindersingh2010/react-native-firebase-social-app/master/assets/screenshots/social-app-ui.png)
+![Home/Feed Screen UI](https://raw.githubusercontent.com/harvindersingh2010/react-native-firebase-social-app/master/assets/screenshots/social-app-ui2.png)
