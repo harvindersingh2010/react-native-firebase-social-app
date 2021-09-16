@@ -18,8 +18,8 @@ HI i am harvinder singh and created this react native social app with Firebase.
 ![Onboarding UI](https://raw.githubusercontent.com/harvindersingh2010/react-native-firebase-social-app/main/master/assets/screenshots/onboarding-ui2.png)
 
 ### Sign In UI
-![Sign in UI](https://raw.githubusercontent.com/harvindersingh2010/react-native-firebase-social-app/master/assets/screenshots/social-login2.png)
+![Sign in UI](https://raw.githubusercontent.com/harvindersingh2010/react-native-firebase-social-app/main/master/assets/screenshots/social-app-ui2.png)
 
 ### Home/Feed Screen UI
-![Home/Feed Screen UI](https://raw.githubusercontent.com/harvindersingh2010/react-native-firebase-social-app/master/assets/screenshots/social-app-ui2.png)
+![Home/Feed Screen UI](https://raw.githubusercontent.com/harvindersingh2010/react-native-firebase-social-app/main/master/assets/screenshots/social-app-ui2.png)
  
